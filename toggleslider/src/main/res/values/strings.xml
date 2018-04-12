@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToggleSlider</string>
+    <string name="toggleOnText">ON</string>
+    <string name="toggleOffText">OFF</string>
+    <bool name="toggleSliderDefState">false</bool>
+    <integer name="toggleSliderDefAnimationDuration">300</integer>
+
+</resources>

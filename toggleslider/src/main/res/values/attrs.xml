@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToggleSlider">
+        <!-- colors -->
+        <attr name="sliderBackgroundOnColor" format="reference" />
+        <attr name="sliderBackgroundOffColor" format="reference" />
+        <attr name="sliderKnobColor" format="reference" />
+        <attr name="sliderTextColor" format="reference" />
+
+
+
+        <!-- text -->
+        <attr name="sliderTextOn" format="string" />
+        <attr name="sliderTextOff" format="string" />
+
+        <!-- duration -->
+        <attr name="sliderAnimationDuration" format="integer" />
+
+        <!-- state -->
+        <attr name="sliderState" format="boolean" />
+    </declare-styleable>
+</resources>
